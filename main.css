@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+#mc {
+    font-size: 40px;
+}
+
+.ics {
+    font-size: 45px;
+}
+
+h1 {
+    overflow: hidden;
+}
+
+p {
+    overflow: hidden;
+}
+
+footer p {
+    font-size: 35px;
+}
